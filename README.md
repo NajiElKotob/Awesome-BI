@@ -44,7 +44,7 @@ In-Process...
 
 ## Books
 ### BI Books
-> [Featured Power BI Books!](http://bit.ly/)
+> [Featured BI Books!](http://bit.ly/)
 
 ### Related Books
 
