@@ -8,3 +8,4 @@
 * SaaS  - Software as a Service
 * DW    - Data Warehouse
 * EDW   - Enterprise Data Warehouse
+* VLDB  - Very Large Database
