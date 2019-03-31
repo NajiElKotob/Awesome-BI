@@ -9,3 +9,4 @@
 * DW    - Data Warehouse
 * EDW   - Enterprise Data Warehouse
 * VLDB  - Very Large Database
+* PSA   - Persistent Staging Area 
