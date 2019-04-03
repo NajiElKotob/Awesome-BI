@@ -52,6 +52,8 @@ In-Process...
 
 ### Whitepapers
 
+### Data Dictionaries and ER Diagram
+* [WideWorldImportersDW](https://dataedo.com/samples/html/WideWorldImportersDW/)
 
 ## Groups
 ### LinkedIn Groups
