@@ -6,8 +6,12 @@
 * OLAP  - Online Analytical Processing
 * OLTP  - Online Transaction Processing
 * SaaS  - Software as a Service
+* PaaS  - Platform as a Service
+* IaaS  - Infrastructure as a Service
+ * [SaaS vs PaaS vs IaaS: What’s The Difference and How To Choose](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
 * DW    - Data Warehouse
 * EDW   - Enterprise Data Warehouse
 * VLDB  - Very Large Database
+* BISM  - Business Intelligence Semantic Model
 * PSA   - Persistent Staging Area 
   * [Using a Persistent Staging Area: What, Why, And How](https://www.hansmichiels.com/2017/02/18/using-a-persistent-staging-area-what-why-and-how/)
