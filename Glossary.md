@@ -8,7 +8,7 @@
 * SaaS  - Software as a Service
 * PaaS  - Platform as a Service
 * IaaS  - Infrastructure as a Service
- * [SaaS vs PaaS vs IaaS: What’s The Difference and How To Choose](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
+  * [SaaS vs PaaS vs IaaS: What’s The Difference and How To Choose](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
 * DW    - Data Warehouse
 * EDW   - Enterprise Data Warehouse
 * VLDB  - Very Large Database
