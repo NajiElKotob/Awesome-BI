@@ -3,10 +3,6 @@ Awesome Business Intelligence
 
 In-Process...
 
-
-![BI](https://github.com/NajiElKotob/Awesome-BI/blob/master/Images/BI_logo.png)  
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
-
 ```sh
 
 ```
@@ -19,9 +15,9 @@ In-Process...
 * [Groups](#groups)
 * [Tools](#tools)
 * [Learning](#learning)
-* [Datasets](#datasets)
 * [Sample Databases](#sample-databases)
-* [Exam](#exam)
+* [Datasets](#datasets)
+* [Exams](#exams)
 * [Special Features](#special-features)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
@@ -86,7 +82,7 @@ In-Process...
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
 
-## Exam
+## Exams
 
 ## Special Features
 
