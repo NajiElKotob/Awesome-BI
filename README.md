@@ -65,6 +65,10 @@ In-Process...
 
 ## Learning
 
+## Sample Databases
+* [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
+    * [Design a multidimensional business intelligence (BI) semantic model](https://www.microsoftpressstore.com/articles/article.aspx?p=2812063)
+
 
 ## Datasets
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
@@ -81,14 +85,10 @@ In-Process...
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
-## Sample Databases
-* [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
-    * [Design a multidimensional business intelligence (BI) semantic model](https://www.microsoftpressstore.com/articles/article.aspx?p=2812063)
+
 ## Exam
 
-
 ## Special Features
-
 
 ## Summits and Conferences
 
