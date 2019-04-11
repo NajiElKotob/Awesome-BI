@@ -20,6 +20,7 @@ In-Process...
 * [Tools](#tools)
 * [Learning](#learning)
 * [Datasets](#datasets)
+* [Sample Databases](#sample-databases)
 * [Exam](#exam)
 * [Special Features](#special-features)
 * [Competitive Analysis](#competitive-analysis)
@@ -80,7 +81,9 @@ In-Process...
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
-
+## Sample Databases
+* [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
+    * [Design a multidimensional business intelligence (BI) semantic model](https://www.microsoftpressstore.com/articles/article.aspx?p=2812063)
 ## Exam
 
 
