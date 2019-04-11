@@ -12,7 +12,7 @@ In-Process...
 * [BI Heroes at YouTube :star2:](#r-heroes-at-youtube)
 * [Blogs](#blogs)
 * [Books](#books)
-* [Groups](#groups)
+* [Groups and Communities](#groups-and-communities)
 * [Tools](#tools)
 * [Learning](#learning)
 * [Sample Databases](#sample-databases)
@@ -52,9 +52,8 @@ In-Process...
 ### Data Dictionaries and ER Diagram
 * [WideWorldImportersDW](https://dataedo.com/samples/html/WideWorldImportersDW/)
 
-## Groups
-### LinkedIn Groups
-
+## Groups and Communities
+* [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
 
 ## Tools
 
