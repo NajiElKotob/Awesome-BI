@@ -29,7 +29,7 @@ In-Process...
 
 ## BI Heroes at YouTube
 > sorted alphabetically :heart:
-
+* [Big Data Analytics with HDInsight: Hadoop on Azure](https://www.youtube.com/watch?v=-Qx7AIV0dqY) - ~5 hours
 
 
 ## Essential Concepts
