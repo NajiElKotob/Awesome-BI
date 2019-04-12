@@ -47,9 +47,6 @@ In-Process (Alpha Version)
 
 ### Whitepapers
 
-### Data Dictionaries and ER Diagram
-* [WideWorldImportersDW](https://dataedo.com/samples/html/WideWorldImportersDW/)
-
 ## Groups and Communities
 * [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
 
@@ -63,6 +60,7 @@ In-Process (Alpha Version)
 ## Sample Databases
 * [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
     * [Design a multidimensional business intelligence (BI) semantic model](https://www.microsoftpressstore.com/articles/article.aspx?p=2812063)
+    * [Data Dictionaries and ER Diagram - WideWorldImportersDW](https://dataedo.com/samples/html/WideWorldImportersDW/)
 
 
 ## Datasets
