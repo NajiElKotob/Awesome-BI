@@ -30,7 +30,7 @@ In-Process (Alpha Version)
 ## BI Heroes at YouTube
 > sorted alphabetically :heart:
 * [Big Data Analytics with HDInsight: Hadoop on Azure](https://www.youtube.com/watch?v=-Qx7AIV0dqY) - ~5 hours
-* [Statistics full Course for Beginner | Statistics for Data Science](https://www.youtube.com/watch?v=74oUwKezFho) ~8 hour
+* [Statistics for Data Science (Beginner)](https://www.youtube.com/watch?v=74oUwKezFho) ~8 hour
 
 ## Essential Concepts
 ### Terms and Definitions
