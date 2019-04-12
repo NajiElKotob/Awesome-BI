@@ -35,8 +35,6 @@ In-Process (Alpha Version)
 ## Essential Concepts
 ### Terms and Definitions
 * [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
-
-### Star Schemas
 * [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html)
 
 ## Blogs
