@@ -1,7 +1,7 @@
 # Awesome BI
 Awesome Business Intelligence
 
-In-Process...
+In-Process (Alpha Version)
 
 ```sh
 
