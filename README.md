@@ -18,7 +18,6 @@ In-Process...
 * [Sample Databases](#sample-databases)
 * [Datasets](#datasets)
 * [Exams](#exams)
-* [Special Features](#special-features)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
 
@@ -33,11 +32,13 @@ In-Process...
 
 
 ## Essential Concepts
+### Terms and Definitions
+* [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
+
 ### Star Schemas
 * [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html)
 
 ## Blogs
-
 
 ## Books
 ### BI Books
@@ -56,7 +57,9 @@ In-Process...
 * [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
 
 ## Tools
-
+* [SSDT - SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
+* [SSMS - SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
 
 ## Learning
 
@@ -83,7 +86,7 @@ In-Process...
 
 ## Exams
 
-## Special Features
+
 
 ## Summits and Conferences
 
