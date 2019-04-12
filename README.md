@@ -10,6 +10,7 @@ In-Process (Alpha Version)
 ## Table of contents
 
 * [BI Heroes at YouTube :star2:](#r-heroes-at-youtube)
+* [Essential Concepts](#essential-concepts)
 * [Blogs](#blogs)
 * [Books](#books)
 * [Groups and Communities](#groups-and-communities)
@@ -43,8 +44,6 @@ In-Process (Alpha Version)
 ## Books
 ### BI Books
 > [Featured BI Books!](http://bit.ly/)
-
-### Related Books
 
 ### Docs
 
