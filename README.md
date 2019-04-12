@@ -1,5 +1,5 @@
 # Awesome BI
-Awesome Business Intelligence
+Awesome Microsoft Business Intelligence Resources
 
 In-Process (Alpha Version)
 
@@ -17,7 +17,7 @@ In-Process (Alpha Version)
 * [Learning](#learning)
 * [Sample Databases](#sample-databases)
 * [Datasets](#datasets)
-* [Exams](#exams)
+* [Exams and Certificates](#exams-and-certificates)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
 
@@ -84,8 +84,17 @@ In-Process (Alpha Version)
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
 
-## Exams
+## Exams and Certificates
+### Exams
+* [Querying Data with Transact-SQL](https://www.microsoft.com/en-us/learning/exam-70-761.aspx)
+* [Developing SQL Databases](https://www.microsoft.com/en-us/learning/exam-70-762.aspx)
+* [Administering a SQL Database Infrastructure](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)
+* [Provisioning SQL Databases](https://www.microsoft.com/en-us/learning/exam-70-765.aspx)
+* [Implementing a Data Warehouse using SQL](https://www.microsoft.com/en-us/learning/exam-70-767.aspx)
+* [Developing SQL Data Models](https://www.microsoft.com/en-us/learning/exam-70-768.aspx)
 
+### Certificates
+* [MCSE: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx)
 
 
 ## Summits and Conferences
