@@ -15,7 +15,7 @@
 * BISM  - Business Intelligence Semantic Model
 * PSA   - Persistent Staging Area 
   * [Using a Persistent Staging Area: What, Why, And How](https://www.hansmichiels.com/2017/02/18/using-a-persistent-staging-area-what-why-and-how/)
-* EIM   - Enterprise Information Management (Enterprise information management (EIM) is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight)
+* EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight)
   * [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
 
 
