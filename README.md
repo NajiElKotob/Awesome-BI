@@ -11,7 +11,7 @@ In-Process (Alpha Version)
 
 * [BI Heroes at YouTube :star2:](#r-heroes-at-youtube)
 * [Essential Concepts](#essential-concepts)
-* [Blogs](#blogs)
+* [Articles](#articles)
 * [Books](#books)
 * [Groups and Communities](#groups-and-communities)
 * [Tools](#tools)
@@ -37,7 +37,8 @@ In-Process (Alpha Version)
 * [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
 * [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html)
 
-## Blogs
+## Articles
+* [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 
 ## Books
 ### BI Books
