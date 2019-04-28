@@ -21,7 +21,7 @@ In-Process (Alpha Version)
 * [Exams and Certificates](#exams-and-certificates)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
-
+* [Third-party Resources](#third-party-resources)
 
 ## Official Websites
 
@@ -93,7 +93,11 @@ In-Process (Alpha Version)
 
 
 ## Summits and Conferences
+* [2019 Business Intelligence Summit](https://www.conferenz.co.nz/events/2019-business-intelligence-summit)
 
 <br/>[:top:](#table-of-contents)
+
+## Third-Party Resources
+* [Presto - Distributed SQL Query Engine for Big Data](https://prestodb.github.io/) - Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
 
 > Suggest more Power BI Resources 
