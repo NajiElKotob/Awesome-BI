@@ -39,6 +39,7 @@ In-Process (Alpha Version)
 
 ## Articles
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
+* [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
 
 ## Books
 ### BI Books
