@@ -41,6 +41,10 @@ In-Process (Alpha Version)
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 * [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
 
+## Videos
+* [Analysis Services What is the Difference between Tabular and Multidimensional Models](https://www.youtube.com/watch?v=Y0hWQh7EJME)
+
+
 ## Books
 ### BI Books
 > [Featured BI Books!](http://bit.ly/)
