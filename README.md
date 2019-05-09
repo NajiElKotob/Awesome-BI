@@ -48,6 +48,7 @@ In-Process (Beta Version)
 
 ## Videos
 * [Analysis Services What is the Difference between Tabular and Multidimensional Models](https://www.youtube.com/watch?v=Y0hWQh7EJME)
+* [Optimizing multi-billion row tables in Tabular](https://www.sqlbi.com/tv/optimizing-multi-billion-row-tables-in-tabular-sqlbits-2017/) - SQLBI
 
 ## Tutorials
 * [Analysis Services tutorials](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas) - Microsoft
