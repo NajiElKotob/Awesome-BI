@@ -40,6 +40,10 @@ In-Process (Alpha Version)
 ## Articles
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 * [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
+* Semantic Layer
+      * [Making Sense of the Semantic Layer](https://www.kimballgroup.com/2013/08/design-tip-158-making-sense-of-the-semantic-layer/) - Kimball Group
+      * [Understanding the SQL Server 2012 BI Semantic Model (BISM)](https://www.mssqltips.com/sqlservertip/2818/understanding-the-sql-server-2012-bi-semantic-model-bism/)
+
 
 ## Videos
 * [Analysis Services What is the Difference between Tabular and Multidimensional Models](https://www.youtube.com/watch?v=Y0hWQh7EJME)
