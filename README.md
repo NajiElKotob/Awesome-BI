@@ -1,7 +1,7 @@
 # Awesome BI
 Awesome Microsoft Business Intelligence Resources
 
-In-Process (Alpha Version)
+In-Process (Beta Version)
 
 ```sh
 
@@ -35,7 +35,7 @@ In-Process (Alpha Version)
 ## Essential Concepts
 ### Terms and Definitions
 * [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
-* [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html)
+* [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
 
 ## Articles
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
@@ -49,6 +49,8 @@ In-Process (Alpha Version)
 ## Videos
 * [Analysis Services What is the Difference between Tabular and Multidimensional Models](https://www.youtube.com/watch?v=Y0hWQh7EJME)
 
+## Tutorials
+* [Analysis Services tutorials](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas) - Microsoft
 
 ## Books
 ### BI Books
