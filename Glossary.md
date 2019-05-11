@@ -18,5 +18,5 @@
 * EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight)
   * [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
 
-
+* Citizen Data Scientist - A person who creates or generates models that leverage predictive or prescriptive analytics, but whose primary job function is outside of the field of statistics and analytics. [simplilearn](https://www.simplilearn.com/citizen-data-scientists-article)
 
