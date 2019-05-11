@@ -13,6 +13,7 @@
 * EDW   - Enterprise Data Warehouse
 * VLDB  - Very Large Database
 * BISM  - Business Intelligence Semantic Model
+* CRISP-DM - Cross-Industry Standard Process for Data Mining
 * PSA   - Persistent Staging Area 
   * [Using a Persistent Staging Area: What, Why, And How](https://www.hansmichiels.com/2017/02/18/using-a-persistent-staging-area-what-why-and-how/)
 * EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight)
