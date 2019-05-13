@@ -24,7 +24,7 @@ In-Process (Beta Version)
 * [Third-party Resources](#third-party-resources)
 
 ## Official Websites
-
+* [Data Platform](http://www.microsoft.com/data) - Microsoft
 
 
 ## BI Heroes at YouTube
@@ -85,7 +85,9 @@ In-Process (Beta Version)
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
 
 
-
+## The Beauty of Data
+* [How the Recession Reshaped the Economy, in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html) - JEREMY ASHKENAS and ALICIA PARLAPIANO
+* [Information is Beautiful](https://informationisbeautiful.net/)
 
 ## Exams and Certificates
 ### Exams
