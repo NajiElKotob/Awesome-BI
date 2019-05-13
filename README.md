@@ -38,6 +38,9 @@ In-Process (Beta Version)
 * [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
 * [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
 
+## Blogs
+* [SQL Server BI](https://sqlserverbi.blog/) - Paul Turley 
+
 ## Articles
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 * [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
