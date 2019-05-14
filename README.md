@@ -59,6 +59,7 @@ In-Process (Beta Version)
 ## Tutorials
 * [Analysis Services tutorials](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas) - Microsoft
     * [Import data by using a native query](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/ssas-import-query)
+    * [Create a calculated table](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/create-a-calculated-table-ssas-tabular)
 
 ## Books
 ### BI Books
