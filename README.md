@@ -102,12 +102,12 @@ In-Process (Beta Version)
 
 ## Exams and Certificates
 ### Exams
-* [Querying Data with Transact-SQL](https://www.microsoft.com/en-us/learning/exam-70-761.aspx)
-* [Developing SQL Databases](https://www.microsoft.com/en-us/learning/exam-70-762.aspx)
-* [Administering a SQL Database Infrastructure](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)
-* [Provisioning SQL Databases](https://www.microsoft.com/en-us/learning/exam-70-765.aspx)
-* [Implementing a Data Warehouse using SQL](https://www.microsoft.com/en-us/learning/exam-70-767.aspx)
-* [Developing SQL Data Models](https://www.microsoft.com/en-us/learning/exam-70-768.aspx)
+* [Querying Data with Transact-SQL](https://www.microsoft.com/en-us/learning/exam-70-761.aspx) (70-761)
+* [Developing SQL Databases](https://www.microsoft.com/en-us/learning/exam-70-762.aspx) (70-762)
+* [Administering a SQL Database Infrastructure](https://www.microsoft.com/en-us/learning/exam-70-764.aspx) (70-764)
+* [Provisioning SQL Databases](https://www.microsoft.com/en-us/learning/exam-70-765.aspx) (70-765)
+* [Implementing a Data Warehouse using SQL](https://www.microsoft.com/en-us/learning/exam-70-767.aspx) (70-767)
+* [Developing SQL Data Models](https://www.microsoft.com/en-us/learning/exam-70-768.aspx) (70-768)
 
 ### Certificates
 * [MCSE: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx)
