@@ -69,9 +69,6 @@ In-Process (Beta Version)
 ### BI Books
 > [Featured BI Books!](http://bit.ly/)
 
-### Docs
-
-### Whitepapers
 
 ## Groups and Communities
 * [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
