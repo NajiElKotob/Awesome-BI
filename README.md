@@ -12,6 +12,8 @@ In-Process (Beta Version)
 * [BI Heroes at YouTube :star2:](#r-heroes-at-youtube)
 * [Essential Concepts](#essential-concepts)
 * [Articles](#articles)
+* [Videos](#videos)
+* [Tutorials](#tutorials)
 * [Books](#books)
 * [Groups and Communities](#groups-and-communities)
 * [Tools](#tools)
@@ -56,6 +58,7 @@ In-Process (Beta Version)
 
 ## Tutorials
 * [Analysis Services tutorials](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas) - Microsoft
+    * [Import data by using a native query](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/ssas-import-query)
 
 ## Books
 ### BI Books
