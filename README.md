@@ -111,6 +111,8 @@ In-Process (Beta Version)
 
 ### Certificates
 * [MCSE: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx)
+* [MCSA: BI Reporting](https://www.microsoft.com/en-us/learning/mcsa-bi-reporting.aspx)
+* [MCSA: SQL 2016 BI Development](https://www.microsoft.com/en-us/learning/mcsa-sql2016-business-intelligence-certification.aspx) 
 
 
 ## Summits and Conferences
