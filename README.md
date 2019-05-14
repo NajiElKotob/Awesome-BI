@@ -58,12 +58,12 @@ In-Process (Beta Version)
 
 ## Tutorials
 * [Analysis Services tutorials](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas) - Microsoft
-    * [Adventure Works Internet Sales tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/tutorial-tabular-1400/as-adventure-works-tutorial)
+    * [Tabular modeling - Adventure Works Internet Sales Tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/tutorial-tabular-1400/as-adventure-works-tutorial)
         * [Import data by using a native query](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/ssas-import-query)
         * [Create a calculated table](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/create-a-calculated-table-ssas-tabular)
         * [Bi-directional cross filters in tabular models](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/bi-directional-cross-filters-tabular-models-analysis-services)
         * [Relationships](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/relationships-ssas-tabular)
-
+    * [Multidimensional modeling - Adventure Works Tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-tutorial/multidimensional-modeling-adventure-works-tutorial)
 
 ## Books
 ### BI Books
