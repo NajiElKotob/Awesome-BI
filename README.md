@@ -9,11 +9,11 @@ In-Process (Beta Version)
 
 ## Table of contents
 
-* [BI Heroes at YouTube :star2:](#r-heroes-at-youtube)
+* [BI Heroes at YouTube](#r-heroes-at-youtube)
 * [Essential Concepts](#essential-concepts)
 * [Articles](#articles)
 * [Videos](#videos)
-* [Tutorials](#tutorials)
+* [Tutorials :star2:](#tutorials)
 * [Books](#books)
 * [Groups and Communities](#groups-and-communities)
 * [Tools](#tools)
