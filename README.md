@@ -49,8 +49,8 @@ In-Process (Beta Version)
 * Semantic Layer 
      * [What is Semantic Layer?](https://www.jinfonet.com/resources/bi-defined/semantic-layer/) - A semantic layer acts as an intermediary between the business user and corporate data. Data is represented as objects named as common business terms for business users to navigate. This allows business users to work with corporate data without needing to know all the finer technical details. Many reporting tools use a semantic layer to allow business users to create their own ad hoc reports
      * [Making Sense of the Semantic Layer](https://www.kimballgroup.com/2013/08/design-tip-158-making-sense-of-the-semantic-layer)
-* Kimball Group
      * [Understanding the SQL Server 2012 BI Semantic Model (BISM)](https://www.mssqltips.com/sqlservertip/2818/understanding-the-sql-server-2012-bi-semantic-model-bism/)
+* Kimball Group
      * [Kimball design tips](https://www.kimballgroup.com/category/before-diving-in)
      * [Kimball Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques)
      * [Data Warehouse and Business Intelligence Toolkit Books](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books)
