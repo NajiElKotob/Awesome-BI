@@ -67,6 +67,7 @@ In-Process (Beta Version)
         * [Create a calculated table](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/create-a-calculated-table-ssas-tabular)
         * [Bi-directional cross filters in tabular models](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/bi-directional-cross-filters-tabular-models-analysis-services)
         * [Relationships](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/relationships-ssas-tabular)
+        * [Tabular model solution deployment](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/tabular-model-solution-deployment-ssas-tabular)
     * [Multidimensional modeling - Adventure Works Tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-tutorial/multidimensional-modeling-adventure-works-tutorial)
 
 
