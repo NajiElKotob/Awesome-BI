@@ -60,7 +60,8 @@ Beta Version
 * [Analysis Services What is the Difference between Tabular and Multidimensional Models](https://www.youtube.com/watch?v=Y0hWQh7EJME)
 * [Optimizing multi-billion row tables in Tabular](https://www.sqlbi.com/tv/optimizing-multi-billion-row-tables-in-tabular-sqlbits-2017/) - SQLBI
 * [DirectQuery in Analysis Services - Best practices, performance, use cases](https://www.youtube.com/watch?v=gSC5ghcGwGk) - DirectQuery is a feature of Analysis Services that transforms a Tabular model in a semantic layer on top of a relational database, transforming any MDX or DAX query in a real-time request to the underlying relational engine using the SQL language.
-
+    * [DirectQuery in SQL Server 2016 Analysis Services whitepaper](http://download.microsoft.com/download/F/6/F/F6FBC1FC-F956-49A1-80CD-2941C3B6E417/DirectQuery%20in%20Analysis%20Services%20-%20Whitepaper.pdf)
+    
 ## Tutorials
 * [Analysis Services tutorials](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas) - Microsoft
     * [Tabular modeling - Adventure Works Internet Sales Tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/tutorial-tabular-1400/as-adventure-works-tutorial)
