@@ -73,6 +73,7 @@ Beta Version
         * [Tabular model solution deployment](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/tabular-model-solution-deployment-ssas-tabular)
         * [How to automate SSAS tabular model processing in SQL Server 2016](https://www.sqlshack.com/how-to-automate-ssas-tabular-model-processing-in-sql-server-2016)
     * [Multidimensional modeling - Adventure Works Tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-tutorial/multidimensional-modeling-adventure-works-tutorial)
+    * [Enable DirectQuery mode in SSDT](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/enable-directquery-mode-in-ssdt)
 
 
 ## Books
