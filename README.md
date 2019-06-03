@@ -47,7 +47,9 @@ Beta Version
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 * [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
 * [Nine Laws of Data Mining](http://khabaza.codimension.net/index_files/9laws.htm) - Tom Khabaza
-* [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
+* CRISP-DM
+    * [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
+    * [CRISP-DM 1.0 (PDF)](https://www.the-modeling-agency.com/crisp-dm.pdf) - Step-by-step data mining guide
 * Semantic Layer 
      * [What is Semantic Layer?](https://www.jinfonet.com/resources/bi-defined/semantic-layer/) - A semantic layer acts as an intermediary between the business user and corporate data. Data is represented as objects named as common business terms for business users to navigate. This allows business users to work with corporate data without needing to know all the finer technical details. Many reporting tools use a semantic layer to allow business users to create their own ad hoc reports
      * [Making Sense of the Semantic Layer](https://www.kimballgroup.com/2013/08/design-tip-158-making-sense-of-the-semantic-layer)
