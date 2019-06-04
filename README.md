@@ -20,6 +20,8 @@ Beta Version
 * [Learning](#learning)
 * [Sample Databases](#sample-databases)
 * [Datasets](#datasets)
+* [The Beauty of Data](#the-beauty-of-data)
+* [Data Security and Protection](#data-security-and-protection)
 * [Exams and Certificates](#exams-and-certificates)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
