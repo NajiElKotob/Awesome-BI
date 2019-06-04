@@ -112,7 +112,7 @@ Beta Version
 
 
 ## The Beauty of Data
-* [How the Recession Reshaped the Economy, in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html) - JEREMY ASHKENAS and ALICIA PARLAPIANO
+* [How the Recession Reshaped the Economy, in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html) - Jermy Ashkenas and Alicia parlapiano
 * [Information is Beautiful](https://informationisbeautiful.net/)
 
 ## Data Security and Protection
