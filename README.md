@@ -113,6 +113,10 @@ Beta Version
 * [How the Recession Reshaped the Economy, in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html) - JEREMY ASHKENAS and ALICIA PARLAPIANO
 * [Information is Beautiful](https://informationisbeautiful.net/)
 
+## Data Security and Protection
+* [Cyber Security Hub - Data](https://www.cshub.com/data) - Data misuse or mismanagement is a top cause of today's breaches. Cyber Security Hub regularly touches upon data-driven stories
+* [World's Biggest Data Breaches & Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - informationisbeautiful.net
+
 ## Exams and Certificates
 ### Exams
 * [Querying Data with Transact-SQL](https://www.microsoft.com/en-us/learning/exam-70-761.aspx) (70-761)
