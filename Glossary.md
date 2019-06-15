@@ -2,6 +2,7 @@
 
 * ERD   - Entity Relationship Diagrams
 * ETL   - Extract, Transform and Load
+* ELT   - Extract, Load and Transform
 * KPI   - Key Performance Indicator
 * OLAP  - Online Analytical Processing
 * OLTP  - Online Transaction Processing
@@ -21,3 +22,4 @@
 
 * Citizen Data Scientist - A person who creates or generates models that leverage predictive or prescriptive analytics, but whose primary job function is outside of the field of statistics and analytics. [simplilearn](https://www.simplilearn.com/citizen-data-scientists-article)
 
+* Data exhaust - Data exhaust is the data generated as a byproduct of people’s online actions and choices. [techtarget.com](https://whatis.techtarget.com/definition/data-exhaust)
