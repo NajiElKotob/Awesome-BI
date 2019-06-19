@@ -46,6 +46,10 @@ Beta Version
 * [SQL Server BI](https://sqlserverbi.blog/) - Paul Turley 
 * [Microsoft SQL Server Versions List](https://sqlserverbuilds.blogspot.com/) - This unofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server.
 
+## Online Tools
+* [Search product lifecycle](https://support.microsoft.com/en-us/lifecycle/search)
+
+
 ## Articles
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 * [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
