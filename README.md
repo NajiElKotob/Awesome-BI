@@ -101,6 +101,11 @@ Beta Version
 * [SSMS - SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
 
+### Utilities
+* [SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress)
+   * [How to Fake Load Tests with SQLQueryStress](https://www.brentozar.com/archive/2015/05/how-to-fake-load-tests-with-sqlquerystress/)
+* [SQL-Load-Generator](https://github.com/cankaya07/SQL-Load-Generator)
+
 ## Learning
 
 ## Sample Databases
