@@ -1,7 +1,7 @@
 # Awesome BI
 Awesome Microsoft Business Intelligence Resources
 
-Beta Version
+=== Beta Awesome List ===
 
 ```sh
 
