@@ -17,18 +17,22 @@ Awesome Microsoft Business Intelligence Resources
 * [Essential Concepts](#essential-concepts)
     * [BI Terms and Concepts](#bi-terms-and-concepts)
     * [CRISP-DM](#crisp-dm)
+* [Enterprise Data Warehouse (EDW)](#enterprise-data-warehouse-edw)
     * [Kimball Group](#kimball-group)
-* [Enterprise Information Management (EIM)](#enterprise-information-management-(EIM))
+    * [Star Schema](#star-schema)
+* [Enterprise Information Management (EIM)](#enterprise-information-management-eim))
     * [ETL](#etl)
     * [MDM](#mdm)
     * [DQM](#dqm)
-* [Business Intelligence Semantic Model (BISM)](#business-intelligence-semantic-model-(BISM))
+* [Business Intelligence Semantic Model (BISM)](#business-intelligence-semantic-model-bism)
 * [Learning](#learning)
+* [BI Tools and Utilities](#bi-tools-and-utilities)
 * [Sample Databases and Datasets](#sample-databases-and-datasets)
 * [The Beauty of Data](#the-beauty-of-data)
 * [Data Security and Protection](#data-security-and-protection)
 * [Exams and Certificates](#exams-and-certificates)
 * [Third-party Resources](#third-party-resources)
+
 
 ## Official Websites
 * [Data Platform](http://www.microsoft.com/data) - Microsoft
@@ -57,7 +61,7 @@ Awesome Microsoft Business Intelligence Resources
 
 ### BI Terms and Concepts
 * [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
-* [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
+
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 * [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
 * [Nine Laws of Data Mining](http://khabaza.codimension.net/index_files/9laws.htm) - Tom Khabaza
@@ -66,10 +70,15 @@ Awesome Microsoft Business Intelligence Resources
 * [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
 * [CRISP-DM 1.0 (PDF)](https://www.the-modeling-agency.com/crisp-dm.pdf) - Step-by-step data mining guide
 
+
+## Enterprise Data Warehouse (EDW)
 ### Kimball Group
 * [Kimball design tips](https://www.kimballgroup.com/category/before-diving-in)
 * [Kimball Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques)
 * [Data Warehouse and Business Intelligence Toolkit Books](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books)
+
+### Star Schema
+* [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
 
 
 ## Enterprise Information Management (EIM)
