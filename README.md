@@ -11,7 +11,6 @@ Awesome Microsoft Business Intelligence Resources
 
 * [BI Heroes at YouTube](#r-heroes-at-youtube)
 * [Essential Concepts](#essential-concepts)
-* [Articles](#articles)
 * [Videos](#videos)
 * [Tutorials :star2:](#tutorials)
 * [Books](#books)
@@ -29,26 +28,45 @@ Awesome Microsoft Business Intelligence Resources
 
 ## Official Websites
 * [Data Platform](http://www.microsoft.com/data) - Microsoft
-
+* [Search product lifecycle](https://support.microsoft.com/en-us/lifecycle/search)
 
 ## BI Heroes at YouTube
 > sorted alphabetically :heart:
 * [Big Data Analytics with HDInsight: Hadoop on Azure](https://www.youtube.com/watch?v=-Qx7AIV0dqY) - ~5 hours
 * [Statistics for Data Science (Beginner)](https://www.youtube.com/watch?v=74oUwKezFho) ~8 hour
 
-## Essential Concepts
-### Terms and Definitions
-* [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
-* [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
-
-
 ## Blogs
 * [SQL Server BI](https://sqlserverbi.blog/) - Paul Turley 
 * [Microsoft SQL Server Versions List](https://sqlserverbuilds.blogspot.com/) - This unofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server.
 
-## Online Tools
-* [Search product lifecycle](https://support.microsoft.com/en-us/lifecycle/search)
+## Groups and Communities
+* [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
 
+## Books
+### BI Books
+> [Featured BI Books!](http://bit.ly/)
+
+
+
+## Essential Concepts
+
+### BI Terms and Concepts
+* [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
+* [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
+* [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
+* [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
+* [Nine Laws of Data Mining](http://khabaza.codimension.net/index_files/9laws.htm) - Tom Khabaza
+
+### CRISP-DM
+* [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
+* [CRISP-DM 1.0 (PDF)](https://www.the-modeling-agency.com/crisp-dm.pdf) - Step-by-step data mining guide
+
+### Kimball Group
+* [Kimball design tips](https://www.kimballgroup.com/category/before-diving-in)
+* [Kimball Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques)
+* [Data Warehouse and Business Intelligence Toolkit Books](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books)
+
+     
 ## Enterprise Information Management (EIM)
 Enterprise Information Management (EIM) can best be defined as a set of technologies, processes, disciplines and practices used to manage an organization’s data and content as an enterprise asset. Managing information in an enterprise typically involves integrating data from across the enterprise and beyond, cleansing the data, matching the data to remove any duplicates, standardizing the data, enriching the data, making the data conform to legal and compliance requirements, and then storing the data in a centralized location with all the necessary security settings.
 * [Enterprise Information Management (EIM): Bringing Together SSIS, DQS, and MDS (Video)](https://channel9.msdn.com/Events/TechEd/Europe/2012/DBI310) - Channel9
@@ -60,34 +78,24 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 
 ### MDM
 
+
 ### DQM
 
 
 
-## Articles
-* [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
-* [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
-* [Nine Laws of Data Mining](http://khabaza.codimension.net/index_files/9laws.htm) - Tom Khabaza
-* CRISP-DM
-    * [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
-    * [CRISP-DM 1.0 (PDF)](https://www.the-modeling-agency.com/crisp-dm.pdf) - Step-by-step data mining guide
+##  Business Intelligence Semantic Model (BISM)
 * Semantic Layer 
      * [What is Semantic Layer?](https://www.jinfonet.com/resources/bi-defined/semantic-layer/) - A semantic layer acts as an intermediary between the business user and corporate data. Data is represented as objects named as common business terms for business users to navigate. This allows business users to work with corporate data without needing to know all the finer technical details. Many reporting tools use a semantic layer to allow business users to create their own ad hoc reports
      * [Making Sense of the Semantic Layer](https://www.kimballgroup.com/2013/08/design-tip-158-making-sense-of-the-semantic-layer)
      * [Understanding the SQL Server 2012 BI Semantic Model (BISM)](https://www.mssqltips.com/sqlservertip/2818/understanding-the-sql-server-2012-bi-semantic-model-bism/)
-* Kimball Group
-     * [Kimball design tips](https://www.kimballgroup.com/category/before-diving-in)
-     * [Kimball Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques)
-     * [Data Warehouse and Business Intelligence Toolkit Books](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books)
 
-
-## Videos
+### Videos
 * [Analysis Services What is the Difference between Tabular and Multidimensional Models](https://www.youtube.com/watch?v=Y0hWQh7EJME)
 * [Optimizing multi-billion row tables in Tabular](https://www.sqlbi.com/tv/optimizing-multi-billion-row-tables-in-tabular-sqlbits-2017/) - SQLBI
 * [DirectQuery in Analysis Services - Best practices, performance, use cases](https://www.youtube.com/watch?v=gSC5ghcGwGk) - DirectQuery is a feature of Analysis Services that transforms a Tabular model in a semantic layer on top of a relational database, transforming any MDX or DAX query in a real-time request to the underlying relational engine using the SQL language.
     * [DirectQuery in SQL Server 2016 Analysis Services whitepaper](http://download.microsoft.com/download/F/6/F/F6FBC1FC-F956-49A1-80CD-2941C3B6E417/DirectQuery%20in%20Analysis%20Services%20-%20Whitepaper.pdf)
     
-## Tutorials
+### Tutorials
 * [Analysis Services tutorials](https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas) - Microsoft
     * [Tabular modeling - Adventure Works Internet Sales Tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/tutorial-tabular-1400/as-adventure-works-tutorial)
         * [Import data by using a native query](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/ssas-import-query)
@@ -102,13 +110,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
         * [Set Impersonation Options](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-models/set-impersonation-options-ssas-multidimensional)
 
 
-## Books
-### BI Books
-> [Featured BI Books!](http://bit.ly/)
 
-
-## Groups and Communities
-* [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
 
 ## Tools
 * [SSDT - SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
