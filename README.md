@@ -64,11 +64,12 @@ Awesome Microsoft Business Intelligence Resources
 * [Kimball Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques)
 * [Data Warehouse and Business Intelligence Toolkit Books](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books)
 
-     
+
 ## Enterprise Information Management (EIM)
 Enterprise Information Management (EIM) can best be defined as a set of technologies, processes, disciplines and practices used to manage an organization’s data and content as an enterprise asset. Managing information in an enterprise typically involves integrating data from across the enterprise and beyond, cleansing the data, matching the data to remove any duplicates, standardizing the data, enriching the data, making the data conform to legal and compliance requirements, and then storing the data in a centralized location with all the necessary security settings.
 * [Enterprise Information Management (EIM): Bringing Together SSIS, DQS, and MDS (Video)](https://channel9.msdn.com/Events/TechEd/Europe/2012/DBI310) - Channel9
 * [Enterprise Information Management](https://www.washington.edu/uwit/eim/) - University of Washington
+* [The Hidden Secret to Peak Business Performance (Whitepaper)](https://www.umsl.edu/~sauterv/DSS4BI/links/EIM_Final.pdf) - Vincent Lam and JT Taylor (University of Missouri)
 
 
 ### ETL
