@@ -43,9 +43,7 @@ Awesome Microsoft Business Intelligence Resources
 * [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
 
 ## Books
-### BI Books
-> [Featured BI Books!](http://bit.ly/)
-
+* In Progress...
 
 
 ## Essential Concepts
@@ -110,8 +108,6 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
         * [Set Impersonation Options](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-models/set-impersonation-options-ssas-multidimensional)
 
 
-
-
 ## Tools
 * [SSDT - SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
 * [SSMS - SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
@@ -123,8 +119,10 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SQL-Load-Generator](https://github.com/cankaya07/SQL-Load-Generator)
 
 ## Learning
+* In Progress...
 
-## Sample Databases
+## Sample Databases and Datasets
+### Sample Databases
 * [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
     * [Design a multidimensional business intelligence (BI) semantic model](https://www.microsoftpressstore.com/articles/article.aspx?p=2812063)
     * [Data Dictionaries and ER Diagram - WideWorldImportersDW](https://dataedo.com/samples/html/WideWorldImportersDW/)
@@ -133,7 +131,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
     * [AdventureWorksDW](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2017.bak)
     * [AdventureWorksLT](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksLT2017.bak)
 
-## Datasets
+### Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
 
 
