@@ -18,7 +18,7 @@ Awesome Microsoft Business Intelligence Resources
     * [BI Terms and Concepts](#bi-terms-and-concepts)
     * [CRISP-DM](#crisp-dm)
     * [Kimball Group](#kimball-group)
-* [Enterprise Information Management (EIM)](enterprise-information-management-(EIM))
+* [Enterprise Information Management (EIM)](#enterprise-information-management-(EIM))
     * [ETL](#etl)
     * [MDM](#mdm)
     * [DQM](#dqm)
