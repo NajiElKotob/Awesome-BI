@@ -13,9 +13,9 @@ Awesome Microsoft Business Intelligence Resources
 * [Blogs](#blogs)
 * [Groups and Communities](#groups-and-communities)
 * [Summits and Conferences](#summits-and-conferences)
-* [Books](#books)
 * [Essential Concepts](#essential-concepts)
     * [BI Terms and Concepts](#bi-terms-and-concepts)
+    * [Nine Laws of Data Mining](#nine-laws-of-data-mining)
     * [CRISP-DM](#crisp-dm)
 * [Enterprise Data Warehouse (EDW)](#enterprise-data-warehouse-edw)
     * [Kimball Group](#kimball-group)
@@ -25,7 +25,6 @@ Awesome Microsoft Business Intelligence Resources
     * [MDM](#mdm)
     * [DQM](#dqm)
 * [Business Intelligence Semantic Model (BISM)](#business-intelligence-semantic-model-bism)
-* [Learning](#learning)
 * [BI Tools and Utilities](#bi-tools-and-utilities)
 * [Sample Databases and Datasets](#sample-databases-and-datasets)
 * [The Beauty of Data](#the-beauty-of-data)
@@ -53,17 +52,15 @@ Awesome Microsoft Business Intelligence Resources
 ## Summits and Conferences
 * [2019 Business Intelligence Summit](https://www.conferenz.co.nz/events/2019-business-intelligence-summit)
 
-## Books
-* In Progress...
-
 
 ## Essential Concepts
 
 ### BI Terms and Concepts
 * [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
-
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 * [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
+
+### Nine Laws of Data Mining
 * [Nine Laws of Data Mining](http://khabaza.codimension.net/index_files/9laws.htm) - Tom Khabaza
 
 ### CRISP-DM
@@ -92,11 +89,17 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SSIS - SQL Server Integration Services](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - Microsoft Integration Services is a platform for building enterprise-level data integration and data transformations solutions. Use Integration Services to solve complex business problems by copying or downloading files, loading data warehouses, cleansing and mining data, and managing SQL Server objects and data.
 
 ### MDM
+* [Master Data Services – The Basics](https://www.red-gate.com/simple-talk/sql/data-platform/master-data-services-basics/) - Hari Yadav (Red Gate)
+* [Master Data Management (MDM) Using SQL Server](https://www.red-gate.com/simple-talk/sql/database-delivery/master-data-management-mdm-using-sql-server/) - Hari Yadav (Red Gate)
+* [SQL Server Master Data Services Installation](https://www.mssqltips.com/sqlservertutorial/3803/sql-server-master-data-services-installation/) - MSSQLTips
 
 
 ### DQM
+* [Introduction to Data Quality Services](https://docs.microsoft.com/en-us/sql/data-quality-services/introduction-to-data-quality-services) - Microsoft 
+* [Install Data Quality Services](https://docs.microsoft.com/en-us/sql/data-quality-services/install-windows/install-data-quality-services) - Microsoft
 
-
+### Tutorial
+* [Enterprise Information Management using SSIS, MDS, and DQS Together](https://docs.microsoft.com/en-us/sql/tutorials/enterprise-information-management-tutorials) - Microsoft
 
 ##  Business Intelligence Semantic Model (BISM)
 ### Semantic Layer 
@@ -135,8 +138,6 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
    * [How to Fake Load Tests with SQLQueryStress](https://www.brentozar.com/archive/2015/05/how-to-fake-load-tests-with-sqlquerystress/)
 * [SQL-Load-Generator](https://github.com/cankaya07/SQL-Load-Generator)
 
-## Learning
-* In Progress...
 
 ## Sample Databases and Datasets
 ### Sample Databases
