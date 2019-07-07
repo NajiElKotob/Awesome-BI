@@ -8,22 +8,21 @@ Awesome Microsoft Business Intelligence Resources
 ```
 
 ## Table of contents
-
+* [Official Websites](#official-websites)
 * [BI Heroes at YouTube](#r-heroes-at-youtube)
-* [Essential Concepts](#essential-concepts)
-* [Videos](#videos)
-* [Tutorials :star2:](#tutorials)
-* [Books](#books)
+* [Blogs](#blogs)
 * [Groups and Communities](#groups-and-communities)
-* [Tools](#tools)
+* [Summits and Conferences](#summits-and-conferences)
+* [Books](#books)
+* [Essential Concepts](#essential-concepts)
+    * [BI Terms and Concepts](#bi-terms-and-concepts)
+    * [CRISP-DM](#crisp-dm)
+    * [Kimball Group](#kimball-group)
 * [Learning](#learning)
-* [Sample Databases](#sample-databases)
-* [Datasets](#datasets)
+* [Sample Databases and Datasets](#sample-databases-and-datasets)
 * [The Beauty of Data](#the-beauty-of-data)
 * [Data Security and Protection](#data-security-and-protection)
 * [Exams and Certificates](#exams-and-certificates)
-* [Competitive Analysis](#competitive-analysis)
-* [Summits and Conferences](#summits-and-conferences)
 * [Third-party Resources](#third-party-resources)
 
 ## Official Websites
@@ -41,6 +40,9 @@ Awesome Microsoft Business Intelligence Resources
 
 ## Groups and Communities
 * [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
+
+## Summits and Conferences
+* [2019 Business Intelligence Summit](https://www.conferenz.co.nz/events/2019-business-intelligence-summit)
 
 ## Books
 * In Progress...
@@ -127,7 +129,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
     * [Design a multidimensional business intelligence (BI) semantic model](https://www.microsoftpressstore.com/articles/article.aspx?p=2812063)
     * [Data Dictionaries and ER Diagram - WideWorldImportersDW](https://dataedo.com/samples/html/WideWorldImportersDW/)
-* [AdventureWorks](https://github.com/microsoft/sql-server-samples/releases/tag/adventureworks)
+* [AdventureWorks (2017)](https://github.com/microsoft/sql-server-samples/releases/tag/adventureworks)
     * [AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
     * [AdventureWorksDW](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2017.bak)
     * [AdventureWorksLT](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksLT2017.bak)
@@ -159,12 +161,12 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [MCSA: SQL 2016 BI Development](https://www.microsoft.com/en-us/learning/mcsa-sql2016-business-intelligence-certification.aspx) 
 
 
-## Summits and Conferences
-* [2019 Business Intelligence Summit](https://www.conferenz.co.nz/events/2019-business-intelligence-summit)
 
-<br/>[:top:](#table-of-contents)
+
 
 ## Third-Party Resources
 * [Presto - Distributed SQL Query Engine for Big Data](https://prestodb.github.io/) - Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
+
+<br/>[:top:](#table-of-contents)
 
 > Suggest more Power BI Resources 
