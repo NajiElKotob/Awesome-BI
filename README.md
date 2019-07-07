@@ -18,6 +18,11 @@ Awesome Microsoft Business Intelligence Resources
     * [BI Terms and Concepts](#bi-terms-and-concepts)
     * [CRISP-DM](#crisp-dm)
     * [Kimball Group](#kimball-group)
+* [Enterprise Information Management (EIM)](enterprise-information-management-(EIM))
+    * [ETL](#etl)
+    * [MDM](#mdm)
+    * [DQM](#dqm)
+* [Business Intelligence Semantic Model (BISM)](#business-intelligence-semantic-model-(BISM))
 * [Learning](#learning)
 * [Sample Databases and Datasets](#sample-databases-and-datasets)
 * [The Beauty of Data](#the-beauty-of-data)
@@ -85,10 +90,10 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 
 
 ##  Business Intelligence Semantic Model (BISM)
-* Semantic Layer 
-     * [What is Semantic Layer?](https://www.jinfonet.com/resources/bi-defined/semantic-layer/) - A semantic layer acts as an intermediary between the business user and corporate data. Data is represented as objects named as common business terms for business users to navigate. This allows business users to work with corporate data without needing to know all the finer technical details. Many reporting tools use a semantic layer to allow business users to create their own ad hoc reports
-     * [Making Sense of the Semantic Layer](https://www.kimballgroup.com/2013/08/design-tip-158-making-sense-of-the-semantic-layer)
-     * [Understanding the SQL Server 2012 BI Semantic Model (BISM)](https://www.mssqltips.com/sqlservertip/2818/understanding-the-sql-server-2012-bi-semantic-model-bism/)
+### Semantic Layer 
+* [What is Semantic Layer?](https://www.jinfonet.com/resources/bi-defined/semantic-layer/) - A semantic layer acts as an intermediary between the business user and corporate data. Data is represented as objects named as common business terms for business users to navigate. This allows business users to work with corporate data without needing to know all the finer technical details. Many reporting tools use a semantic layer to allow business users to create their own ad hoc reports
+* [Making Sense of the Semantic Layer](https://www.kimballgroup.com/2013/08/design-tip-158-making-sense-of-the-semantic-layer)
+* [Understanding the SQL Server 2012 BI Semantic Model (BISM)](https://www.mssqltips.com/sqlservertip/2818/understanding-the-sql-server-2012-bi-semantic-model-bism/)
 
 ### Videos
 * [Analysis Services What is the Difference between Tabular and Multidimensional Models](https://www.youtube.com/watch?v=Y0hWQh7EJME)
@@ -111,11 +116,11 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
         * [Set Impersonation Options](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-models/set-impersonation-options-ssas-multidimensional)
 
 
-## Tools
+## BI Tools and Utilities
+### Tools
 * [SSDT - SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
 * [SSMS - SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
-
 ### Utilities
 * [SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress)
    * [How to Fake Load Tests with SQLQueryStress](https://www.brentozar.com/archive/2015/05/how-to-fake-load-tests-with-sqlquerystress/)
