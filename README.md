@@ -87,16 +87,22 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 
 ### ETL
 * [SSIS - SQL Server Integration Services](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - Microsoft Integration Services is a platform for building enterprise-level data integration and data transformations solutions. Use Integration Services to solve complex business problems by copying or downloading files, loading data warehouses, cleansing and mining data, and managing SQL Server objects and data.
+* Videos
+* [SSIS Channel9](https://channel9.msdn.com/Search?term=%22integration%20services%22&lang-en=true)
 
 ### MDM
 * [Master Data Services – The Basics](https://www.red-gate.com/simple-talk/sql/data-platform/master-data-services-basics/) - Hari Yadav (Red Gate)
 * [Master Data Management (MDM) Using SQL Server](https://www.red-gate.com/simple-talk/sql/database-delivery/master-data-management-mdm-using-sql-server/) - Hari Yadav (Red Gate)
 * [SQL Server Master Data Services Installation](https://www.mssqltips.com/sqlservertutorial/3803/sql-server-master-data-services-installation/) - MSSQLTips
-
+* [Master Data Services Add-in for Microsoft Excel](https://docs.microsoft.com/en-us/sql/master-data-services/microsoft-excel-add-in/master-data-services-add-in-for-microsoft-excel)
+* Videos
+* [MDS at Channel9](https://channel9.msdn.com/Search?term=%22Master%20Data%20Services%22&lang-en=true)
 
 ### DQM
 * [Introduction to Data Quality Services](https://docs.microsoft.com/en-us/sql/data-quality-services/introduction-to-data-quality-services) - Microsoft 
 * [Install Data Quality Services](https://docs.microsoft.com/en-us/sql/data-quality-services/install-windows/install-data-quality-services) - Microsoft
+* Videos
+* [DQS at Channel9](https://channel9.msdn.com/Search?term=%22Data%20Quality%20Services%22&lang-en=true)
 
 ### Tutorial
 * [Enterprise Information Management using SSIS, MDS, and DQS Together](https://docs.microsoft.com/en-us/sql/tutorials/enterprise-information-management-tutorials) - Microsoft
