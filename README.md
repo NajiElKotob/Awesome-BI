@@ -37,6 +37,8 @@ Awesome Microsoft Business Intelligence Resources
 * [Data Platform](http://www.microsoft.com/data) - Microsoft
 * [Search product lifecycle](https://support.microsoft.com/en-us/lifecycle/search)
 * [SQL Server Video Archive](https://docs.microsoft.com/en-us/previous-versions/dn912438(v=msdn.10))
+* [Microsoft White Papers](https://msdn.microsoft.com/library/hh403491)
+* [SQL Server Customer Advisory Team (SQLCAT)](https://blogs.msdn.microsoft.com/sqlcat/)
 
 ## BI Heroes at YouTube
 > sorted alphabetically :heart:
