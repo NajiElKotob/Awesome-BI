@@ -36,6 +36,7 @@ Awesome Microsoft Business Intelligence Resources
 ## Official Websites
 * [Data Platform](http://www.microsoft.com/data) - Microsoft
 * [Search product lifecycle](https://support.microsoft.com/en-us/lifecycle/search)
+* [SQL Server Video Archive](https://docs.microsoft.com/en-us/previous-versions/dn912438(v=msdn.10))
 
 ## BI Heroes at YouTube
 > sorted alphabetically :heart:
