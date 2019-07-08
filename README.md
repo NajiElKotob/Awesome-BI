@@ -81,7 +81,7 @@ Awesome Microsoft Business Intelligence Resources
 
 ## Enterprise Information Management (EIM)
 Enterprise Information Management (EIM) can best be defined as a set of technologies, processes, disciplines and practices used to manage an organization’s data and content as an enterprise asset. Managing information in an enterprise typically involves integrating data from across the enterprise and beyond, cleansing the data, matching the data to remove any duplicates, standardizing the data, enriching the data, making the data conform to legal and compliance requirements, and then storing the data in a centralized location with all the necessary security settings.
-* [Enterprise Information Management (EIM): Bringing Together SSIS, DQS, and MDS (Video)](https://channel9.msdn.com/Events/TechEd/Europe/2012/DBI310) - Channel9
+* [Enterprise Information Management (EIM): Bringing Together SSIS, DQS, and MDS (Video)](https://channel9.msdn.com/Events/TechEd/Europe/2012/DBI310) - Matthew Roche (Channel9)
 * [Enterprise Information Management](https://www.washington.edu/uwit/eim/) - University of Washington
 * [The Hidden Secret to Peak Business Performance (Whitepaper)](https://www.umsl.edu/~sauterv/DSS4BI/links/EIM_Final.pdf) - Vincent Lam and JT Taylor (University of Missouri)
 
@@ -94,6 +94,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 ### MDM
 * [Master Data Services – The Basics](https://www.red-gate.com/simple-talk/sql/data-platform/master-data-services-basics/) - Hari Yadav (Red Gate)
 * [Master Data Management (MDM) Using SQL Server](https://www.red-gate.com/simple-talk/sql/database-delivery/master-data-management-mdm-using-sql-server/) - Hari Yadav (Red Gate)
+* [Master Data Services Installation and Configuration](https://docs.microsoft.com/en-us/sql/master-data-services/master-data-services-installation-and-configuration) - Microsoft
 * [SQL Server Master Data Services Installation](https://www.mssqltips.com/sqlservertutorial/3803/sql-server-master-data-services-installation/) - MSSQLTips
 * [Master Data Services Add-in for Microsoft Excel](https://docs.microsoft.com/en-us/sql/master-data-services/microsoft-excel-add-in/master-data-services-add-in-for-microsoft-excel)
 * Videos
