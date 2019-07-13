@@ -150,6 +150,10 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SQL-Load-Generator](https://github.com/cankaya07/SQL-Load-Generator)
 
 
+## Big Data
+* Hortonworks
+   * [Hortonworks](https://hortonworks.com/)
+
 ## Sample Databases and Datasets
 ### Sample Databases
 * [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
