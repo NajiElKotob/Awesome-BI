@@ -72,6 +72,8 @@ Awesome Microsoft Business Intelligence Resources
 * [CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/) - Cross-Industry Standard Process for Data Mining
 * [CRISP-DM 1.0 (PDF)](https://www.the-modeling-agency.com/crisp-dm.pdf) - Step-by-step data mining guide
 
+### DMM
+* [The Four Stages of the Data Maturity Model](https://www.cio.com/article/3077871/the-four-stages-of-the-data-maturity-model.html) - A trusting partnership between IT and the business builds data maturity and accelerates the journey from data to decision.
 
 
 ## Big Data
