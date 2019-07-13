@@ -18,6 +18,7 @@ Awesome Microsoft Business Intelligence Resources
     * [Nine Laws of Data Mining](#nine-laws-of-data-mining)
     * [CRISP-DM](#crisp-dm)
 * [Big Data](#big-data)
+* [Parallel Data Warehouse](#parallel-data-warehouse)
 * [Enterprise Data Warehouse (EDW)](#enterprise-data-warehouse-edw)
     * [Kimball Group](#kimball-group)
     * [Star Schema](#star-schema)
@@ -80,7 +81,10 @@ Awesome Microsoft Business Intelligence Resources
    * [Cloudera](https://www.cloudera.com/)
 * MapR
    * [MapR](https://mapr.com/)
-   
+
+## Parallel Data Warehouse 
+* [Parallel Data Warehouse components](https://docs.microsoft.com/en-us/sql/analytics-platform-system/parallel-data-warehouse-overview?view=aps-pdw-2016-au7) - Microsoft
+
 ## Enterprise Data Warehouse (EDW)
 ### Kimball Group
 * [Kimball design tips](https://www.kimballgroup.com/category/before-diving-in)
