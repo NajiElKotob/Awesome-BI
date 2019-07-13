@@ -17,6 +17,7 @@ Awesome Microsoft Business Intelligence Resources
     * [BI Terms and Concepts](#bi-terms-and-concepts)
     * [Nine Laws of Data Mining](#nine-laws-of-data-mining)
     * [CRISP-DM](#crisp-dm)
+* [Big Data](#big-data)
 * [Enterprise Data Warehouse (EDW)](#enterprise-data-warehouse-edw)
     * [Kimball Group](#kimball-group)
     * [Star Schema](#star-schema)
@@ -71,6 +72,15 @@ Awesome Microsoft Business Intelligence Resources
 * [CRISP-DM 1.0 (PDF)](https://www.the-modeling-agency.com/crisp-dm.pdf) - Step-by-step data mining guide
 
 
+
+## Big Data
+* Hortonworks
+   * [Hortonworks](https://hortonworks.com/)
+* Coudera
+   * [Cloudera](https://www.cloudera.com/)
+* MapR
+   * [MapR](https://mapr.com/)
+   
 ## Enterprise Data Warehouse (EDW)
 ### Kimball Group
 * [Kimball design tips](https://www.kimballgroup.com/category/before-diving-in)
@@ -150,9 +160,6 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SQL-Load-Generator](https://github.com/cankaya07/SQL-Load-Generator)
 
 
-## Big Data
-* Hortonworks
-   * [Hortonworks](https://hortonworks.com/)
 
 ## Sample Databases and Datasets
 ### Sample Databases
