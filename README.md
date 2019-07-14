@@ -159,6 +159,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SSDT - SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
 * [SSMS - SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
    * [Microsoft SQL Server Management Studio (SSMS) Versions](https://sqlserverbuilds.blogspot.com/2018/01/sql-server-management-studio-ssms.html)
+   * [How to determine the version, edition, and update level of SQL Server and its components](https://support.microsoft.com/en-us/help/321185/how-to-determine-the-version-edition-and-update-level-of-sql-server-an)
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
 ### Utilities
 * [SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress)
