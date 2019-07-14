@@ -201,10 +201,12 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [Developing SQL Data Models](https://www.microsoft.com/en-us/learning/exam-70-768.aspx) (70-768)
 
 ### Certificates
-* [MCSE: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx)
+* [MCSA: SQL Server 2012/2014](https://www.microsoft.com/en-us/learning/mcsa-sql-certification.aspx)
+* [MCSA: SQL 2016 Database Administration](https://www.microsoft.com/en-us/learning/mcsa-sql2016-database-administration-certification.aspx)
+* [MCSA: SQL 2016 Database Development](https://www.microsoft.com/en-us/learning/mcsa-sql2016-database-development-certification.aspx)
 * [MCSA: BI Reporting](https://www.microsoft.com/en-us/learning/mcsa-bi-reporting.aspx)
 * [MCSA: SQL 2016 BI Development](https://www.microsoft.com/en-us/learning/mcsa-sql2016-business-intelligence-certification.aspx) 
-
+* [MCSE: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx)
 
 
 
