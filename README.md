@@ -198,6 +198,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [Administering a SQL Database Infrastructure](https://www.microsoft.com/en-us/learning/exam-70-764.aspx) (70-764)
 * [Provisioning SQL Databases](https://www.microsoft.com/en-us/learning/exam-70-765.aspx) (70-765)
 * [Implementing a Data Warehouse using SQL](https://www.microsoft.com/en-us/learning/exam-70-767.aspx) (70-767)
+   * [Study material for exam 70-767 (MSSQLTips)](https://www.mssqltips.com/sqlservertip/4741/study-material-for-exam-70767-implementing-a-sql-data-warehouse/)
 * [Developing SQL Data Models](https://www.microsoft.com/en-us/learning/exam-70-768.aspx) (70-768)
 
 ### Certificates
