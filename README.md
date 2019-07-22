@@ -34,7 +34,7 @@ Awesome Microsoft Business Intelligence Resources
 * [Exams and Certificates](#exams-and-certificates)
 * [Third-party Resources](#third-party-resources)
 
-
+-----
 ## Official Websites
 * [Data Platform](http://www.microsoft.com/data) - Microsoft
 * [Search product lifecycle](https://support.microsoft.com/en-us/lifecycle/search)
@@ -42,23 +42,28 @@ Awesome Microsoft Business Intelligence Resources
 * [Microsoft White Papers](https://msdn.microsoft.com/library/hh403491)
 * [SQL Server Customer Advisory Team (SQLCAT)](https://blogs.msdn.microsoft.com/sqlcat/)
 
+-----
 ## BI Heroes at YouTube
 > sorted alphabetically :heart:
 * [Big Data Analytics with HDInsight: Hadoop on Azure](https://www.youtube.com/watch?v=-Qx7AIV0dqY) - ~5 hours
 * [Statistics for Data Science (Beginner)](https://www.youtube.com/watch?v=74oUwKezFho) ~8 hour
 
+-----
 ## Blogs
 * [SQL Server BI](https://sqlserverbi.blog/) - Paul Turley 
 * [Microsoft SQL Server Versions List](https://sqlserverbuilds.blogspot.com/) - This unofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server.
 
+-----
 ## Groups and Communities
 * [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
 
+-----
 ## Summits and Conferences
 * [2019 Business Intelligence Summit](https://www.conferenz.co.nz/events/2019-business-intelligence-summit)
 
-
+-----
 ## Essential Concepts
+
 
 ### BI Terms and Concepts
 * [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
@@ -75,7 +80,7 @@ Awesome Microsoft Business Intelligence Resources
 ### DMM
 * [The Four Stages of the Data Maturity Model](https://www.cio.com/article/3077871/the-four-stages-of-the-data-maturity-model.html) - A trusting partnership between IT and the business builds data maturity and accelerates the journey from data to decision.
 
-
+-----
 ## Big Data
 * Hortonworks
    * [Hortonworks](https://hortonworks.com/)
@@ -84,9 +89,11 @@ Awesome Microsoft Business Intelligence Resources
 * MapR
    * [MapR](https://mapr.com/)
 
+-----
 ## Parallel Data Warehouse 
 * [Parallel Data Warehouse components](https://docs.microsoft.com/en-us/sql/analytics-platform-system/parallel-data-warehouse-overview?view=aps-pdw-2016-au7) - Microsoft
 
+-----
 ## Enterprise Data Warehouse (EDW)
 ### Kimball Group
 * [Kimball design tips](https://www.kimballgroup.com/category/before-diving-in)
@@ -96,7 +103,7 @@ Awesome Microsoft Business Intelligence Resources
 ### Star Schema
 * [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
 
-
+-----
 ## Enterprise Information Management (EIM)
 Enterprise Information Management (EIM) can best be defined as a set of technologies, processes, disciplines and practices used to manage an organization’s data and content as an enterprise asset. Managing information in an enterprise typically involves integrating data from across the enterprise and beyond, cleansing the data, matching the data to remove any duplicates, standardizing the data, enriching the data, making the data conform to legal and compliance requirements, and then storing the data in a centralized location with all the necessary security settings.
 * [Enterprise Information Management (EIM): Bringing Together SSIS, DQS, and MDS (Video)](https://channel9.msdn.com/Events/TechEd/Europe/2012/DBI310) - Matthew Roche (Channel9)
@@ -127,6 +134,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 ### Tutorial
 * [Enterprise Information Management using SSIS, MDS, and DQS Together](https://docs.microsoft.com/en-us/sql/tutorials/enterprise-information-management-tutorials) - Microsoft
 
+-----
 ##  Business Intelligence Semantic Model (BISM)
 ### Semantic Layer 
 * [What is Semantic Layer?](https://www.jinfonet.com/resources/bi-defined/semantic-layer/) - A semantic layer acts as an intermediary between the business user and corporate data. Data is represented as objects named as common business terms for business users to navigate. This allows business users to work with corporate data without needing to know all the finer technical details. Many reporting tools use a semantic layer to allow business users to create their own ad hoc reports
@@ -153,7 +161,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
     * [Multidimensional modeling - Adventure Works Tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-tutorial/multidimensional-modeling-adventure-works-tutorial)
         * [Set Impersonation Options](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-models/set-impersonation-options-ssas-multidimensional)
 
-
+-----
 ## BI Tools and Utilities
 ### Tools
 * [SSDT - SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
@@ -168,7 +176,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SQL-Load-Generator](https://github.com/cankaya07/SQL-Load-Generator)
 
 
-
+-----
 ## Sample Databases and Datasets
 ### Sample Databases
 * [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
@@ -187,10 +195,12 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [How the Recession Reshaped the Economy, in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html) - Jermy Ashkenas and Alicia parlapiano
 * [Information is Beautiful](https://informationisbeautiful.net/)
 
+-----
 ## Data Security and Protection
 * [Cyber Security Hub - Data](https://www.cshub.com/data) - Data misuse or mismanagement is a top cause of today's breaches. Cyber Security Hub regularly touches upon data-driven stories
 * [World's Biggest Data Breaches & Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - informationisbeautiful.net
 
+-----
 ## Exams and Certificates
 ### Exams
 * [Querying Data with Transact-SQL](https://www.microsoft.com/en-us/learning/exam-70-761.aspx) (70-761)
@@ -211,7 +221,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 
 
 
-
+-----
 ## Third-Party Resources
 * [Presto - Distributed SQL Query Engine for Big Data](https://prestodb.github.io/) - Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
 
