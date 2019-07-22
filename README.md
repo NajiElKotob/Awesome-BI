@@ -114,7 +114,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 ### ETL
 * [SSIS - SQL Server Integration Services](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - Microsoft Integration Services is a platform for building enterprise-level data integration and data transformations solutions. Use Integration Services to solve complex business problems by copying or downloading files, loading data warehouses, cleansing and mining data, and managing SQL Server objects and data.
 * Videos
-* [SSIS Channel9](https://channel9.msdn.com/Search?term=%22integration%20services%22&lang-en=true)
+   * [SSIS Channel9](https://channel9.msdn.com/Search?term=%22integration%20services%22&lang-en=true)
 
 ### MDM
 * Installation
