@@ -17,6 +17,8 @@
 * CRISP-DM - Cross-Industry Standard Process for Data Mining
 * PSA   - Persistent Staging Area 
   * [Using a Persistent Staging Area: What, Why, And How](https://www.hansmichiels.com/2017/02/18/using-a-persistent-staging-area-what-why-and-how/)
+  
+-----
 * EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight)
   * [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
 
@@ -25,3 +27,6 @@
 * Data exhaust - Data exhaust is the data generated as a byproduct of people’s online actions and choices. [techtarget.com](https://whatis.techtarget.com/definition/data-exhaust)
 * Data Architecture - Data architecture is a set of rules, policies, standards and models that govern and define the type of data collected and how it is used, stored, managed and integrated within an organization and its database systems. It provides a formal approach to creating and managing the flow of data and how it is processed across an organization’s IT systems and applications. [techopedia](https://www.techopedia.com/definition/6730/data-architecture)
  
+* [Data Owner](https://www.dataminingapps.com/2018/05/what-is-the-difference-between-a-data-owner-and-a-data-steward/) - Every data field in every database in the organization should be owned by a data owner, who is in the authority to ultimately decide on the access to, and usage of, the data.
+
+* [Data steward](https://www.dataminingapps.com/2018/05/what-is-the-difference-between-a-data-owner-and-a-data-steward/) - Data stewards are the DQ experts in charge of ensuring the quality of both the actual business data and the corresponding metadata.  They assess DQ by performing extensive and regular data quality checks.  
