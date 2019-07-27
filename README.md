@@ -177,6 +177,8 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress)
    * [How to Fake Load Tests with SQLQueryStress](https://www.brentozar.com/archive/2015/05/how-to-fake-load-tests-with-sqlquerystress/)
 * [SQL-Load-Generator](https://github.com/cankaya07/SQL-Load-Generator)
+* [SSASDiag](https://github.com/ssasdiag/SSASDiag) - Collect and analyse information to troubleshoot on-premises SSAS issues.
+   * [SSASDiag: A Tool To Help Diagnose Analysis Services Problems](https://blog.crossjoin.co.uk/2019/07/21/ssasdiag-a-tool-to-help-diagnose-analysis-services-problems/)
 
 
 -----
