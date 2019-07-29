@@ -69,6 +69,7 @@ Awesome Microsoft Business Intelligence Resources
 * [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
 * [Business Intelligence Maturity Model](https://medium.com/@christopher.shayan/business-intelligence-maturity-model-ff87f360d45c)
 * [Data governance and the death of schema on read](https://www.oreilly.com/ideas/data-governance-and-the-death-of-schema-on-read)
+* [What’s Your Data Strategy? (June 2017)](https://hbr.org/2017/05/whats-your-data-strategy) - by Leandro DalleMule and Thomas H. Davenport
 
 ### Nine Laws of Data Mining
 * [Nine Laws of Data Mining](http://khabaza.codimension.net/index_files/9laws.htm) - Tom Khabaza
