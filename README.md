@@ -183,6 +183,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SQL-Load-Generator](https://github.com/cankaya07/SQL-Load-Generator)
 * [SSASDiag](https://github.com/ssasdiag/SSASDiag) - Collect and analyse information to troubleshoot on-premises SSAS issues.
    * [SSASDiag: A Tool To Help Diagnose Analysis Services Problems](https://blog.crossjoin.co.uk/2019/07/21/ssasdiag-a-tool-to-help-diagnose-analysis-services-problems/)
+* [Tabular Editor](https://tabulareditor.github.io) - A lightweight editor for SSAS Tabular Models built in .NET/WinForms
 
 
 -----
