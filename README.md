@@ -85,10 +85,13 @@ Awesome Microsoft Business Intelligence Resources
 ## Big Data
 * Hortonworks
    * [Hortonworks](https://hortonworks.com/)
+* HDInsight (Microsoft)
+   * [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/?cdn=disable) - Easy, cost-effective, enterprise-grade service for open source analytics
 * Coudera
    * [Cloudera](https://www.cloudera.com/)
 * MapR
    * [MapR](https://mapr.com/)
+
 
 -----
 ## Parallel Data Warehouse 
