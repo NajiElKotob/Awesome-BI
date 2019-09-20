@@ -30,3 +30,5 @@
 * [Data Owner](https://www.dataminingapps.com/2018/05/what-is-the-difference-between-a-data-owner-and-a-data-steward/) - Every data field in every database in the organization should be owned by a data owner, who is in the authority to ultimately decide on the access to, and usage of, the data.
 
 * [Data steward](https://www.dataminingapps.com/2018/05/what-is-the-difference-between-a-data-owner-and-a-data-steward/) - Data stewards are the DQ experts in charge of ensuring the quality of both the actual business data and the corresponding metadata.  They assess DQ by performing extensive and regular data quality checks.  
+
+* [Data Swamp](https://intersog.com/blog/what-is-the-difference-between-data-lakes-data-marts-data-swamps-and-data-cubes/) is the term that describes the failure to document the stored data accurately, resulting in the inability to analyze and exploit the data efficiently; the original data may remain, but the data swamp cannot retrieve it without the metadata that gives it context.
