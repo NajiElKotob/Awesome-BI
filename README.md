@@ -173,6 +173,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
         * [Enable DirectQuery mode in SSDT](https://docs.microsoft.com/en-us/sql/analysis-services/tabular-models/enable-directquery-mode-in-ssdt)
     * [Multidimensional modeling - Adventure Works Tutorial](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-tutorial/multidimensional-modeling-adventure-works-tutorial)
         * [Set Impersonation Options](https://docs.microsoft.com/en-us/sql/analysis-services/multidimensional-models/set-impersonation-options-ssas-multidimensional)
+        * [MDX Query - The Basic Query](https://docs.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query) - Microsoft Docs
 
 -----
 ## BI Tools and Utilities
