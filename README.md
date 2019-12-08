@@ -1,7 +1,7 @@
 # Awesome BI
 Awesome Microsoft Business Intelligence Resources
 
-=== Beta Awesome List ===
+=== Awesome References in Process... ===
 
 ```sh
 
