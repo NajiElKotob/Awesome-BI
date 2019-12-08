@@ -86,11 +86,15 @@ Awesome Microsoft Business Intelligence Resources
 
 -----
 ## Big Data
+* Hadoop
+   * [Hadoop](https://hadoop.apache.org/) - reliable, scalable, distributed computing.
+* Spark
+   * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing
 * Hortonworks
    * [Hortonworks](https://hortonworks.com/)
 * HDInsight (Microsoft)
    * [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/?cdn=disable) - Easy, cost-effective, enterprise-grade service for open source analytics
-* Coudera
+* Cloudera
    * [Cloudera](https://www.cloudera.com/)
 * MapR
    * [MapR](https://mapr.com/)
