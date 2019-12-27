@@ -1,10 +1,8 @@
 # Awesome BI
 Awesome Microsoft Business Intelligence Resources
 
-=== Awesome References in Process... ===
-
 ```sh
-
+Simply! The purpose of Business Intelligence is to support better decision making.
 ```
 
 ## Table of contents
