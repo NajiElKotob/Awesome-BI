@@ -82,6 +82,8 @@ Simply! The purpose of Business Intelligence is to support better decision makin
 ### DMM
 * [The Four Stages of the Data Maturity Model](https://www.cio.com/article/3077871/the-four-stages-of-the-data-maturity-model.html) - A trusting partnership between IT and the business builds data maturity and accelerates the journey from data to decision.
 
+### SSBI
+* [Self-service BI best practices: 5 dos and don'ts](https://searchcio.techtarget.com/video/Self-service-BI-best-practices-5-dos-and-donts) - Mekhala Roy (August 2017)
 -----
 ## Big Data
 * Hadoop
