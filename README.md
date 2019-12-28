@@ -86,20 +86,7 @@ Simply! The purpose of Business Intelligence is to support better decision makin
 * [Self-service BI best practices: 5 dos and don'ts](https://searchcio.techtarget.com/video/Self-service-BI-best-practices-5-dos-and-donts) - Mekhala Roy (August 2017)
 -----
 ## Big Data
-* Hadoop
-   * [Hadoop](https://hadoop.apache.org/) - reliable, scalable, distributed computing.
-   * [Hadoop Courses (Coursera)](https://www.coursera.org/search?query=hadoop&)
-* Spark
-   * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing
-   * [Apache Spark Courses (Coursera)](https://www.coursera.org/courses?query=apache%20spark) 
-* Hortonworks
-   * [Hortonworks](https://hortonworks.com/)
-* HDInsight (Microsoft)
-   * [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/?cdn=disable) - Easy, cost-effective, enterprise-grade service for open source analytics
-* Cloudera
-   * [Cloudera](https://www.cloudera.com/)
-* MapR
-   * [MapR](https://mapr.com/)
+* [Awesome Big Data](https://github.com/NajiElKotob/Awesome-BigData)
 
 
 -----
