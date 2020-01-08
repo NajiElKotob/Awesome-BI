@@ -10,6 +10,7 @@
 * PaaS  - Platform as a Service
 * IaaS  - Infrastructure as a Service
   * [SaaS vs PaaS vs IaaS: What’s The Difference and How To Choose](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
+* DFaaS - Data Fabrics as a Service
 * DW    - Data Warehouse
 * DSS   - Decision Support System
 * EDW   - Enterprise Data Warehouse
