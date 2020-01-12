@@ -29,6 +29,8 @@
 
 * [Data Exhaust](https://whatis.techtarget.com/definition/data-exhaust) - Data exhaust is the data generated as a byproduct of people’s online actions and choices - techtarget
 
+* [Data ethics](https://dataethics.eu/data-ethics-principles/) is about responsible and sustainable use of data. 
+
 * [Data Architecture](https://www.techopedia.com/definition/6730/data-architecture) - Data architecture is a set of rules, policies, standards and models that govern and define the type of data collected and how it is used, stored, managed and integrated within an organization and its database systems. It provides a formal approach to creating and managing the flow of data and how it is processed across an organization’s IT systems and applications - techopedia
 
 * [Data blending](https://www.datawatch.com/what-is-data-blending/) - Data blending is the process of combining data from multiple sources into a functioning dataset. This process is gaining attention among analysts and analytic companies due to the fact that it is a quick and straightforward method used to extract value from multiple data sources.
