@@ -184,7 +184,8 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 * [SSASDiag](https://github.com/ssasdiag/SSASDiag) - Collect and analyse information to troubleshoot on-premises SSAS issues.
    * [SSASDiag: A Tool To Help Diagnose Analysis Services Problems](https://blog.crossjoin.co.uk/2019/07/21/ssasdiag-a-tool-to-help-diagnose-analysis-services-problems/)
 * [Tabular Editor](https://tabulareditor.github.io) - A lightweight editor for SSAS Tabular Models built in .NET/WinForms
-
+* [BISM Normalizer](http://bism-normalizer.com/)
+   * [BISM Normalizer (GitHub)](https://github.com/microsoft/Analysis-Services/tree/master/BismNormalizer)
 
 -----
 ## Sample Databases and Datasets
