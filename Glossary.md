@@ -4,6 +4,7 @@
 * ETL   - Extract, Transform and Load
 * ELT   - Extract, Load and Transform
 * KPI   - Key Performance Indicator
+* LCDP  - A low-code development platform (LCDP) is software that provides an environment programmers use to create application software through graphical user interfaces and configuration instead of traditional computer programming
 * OLAP  - Online Analytical Processing
 * OLTP  - Online Transaction Processing
 * SaaS  - Software as a Service
