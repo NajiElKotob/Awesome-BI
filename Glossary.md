@@ -24,15 +24,15 @@
   * [Using a Persistent Staging Area: What, Why, And How](https://www.hansmichiels.com/2017/02/18/using-a-persistent-staging-area-what-why-and-how/)
   
 -----
-* EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight) [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
 
-* [Citizen Data Scientist](https://www.simplilearn.com/citizen-data-scientists-article) - A person who creates or generates models that leverage predictive or prescriptive analytics, but whose primary job function is outside of the field of statistics and analytics. simplilearn
+* [Data Architecture](https://www.techopedia.com/definition/6730/data-architecture) - Data architecture is a set of rules, policies, standards and models that govern and define the type of data collected and how it is used, stored, managed and integrated within an organization and its database systems. It provides a formal approach to creating and managing the flow of data and how it is processed across an organization’s IT systems and applications - techopedia
 
-* [Data Exhaust](https://whatis.techtarget.com/definition/data-exhaust) - Data exhaust is the data generated as a byproduct of people’s online actions and choices - techtarget
 
 * [Data ethics](https://dataethics.eu/data-ethics-principles/) is about responsible and sustainable use of data. 
 
-* [Data Architecture](https://www.techopedia.com/definition/6730/data-architecture) - Data architecture is a set of rules, policies, standards and models that govern and define the type of data collected and how it is used, stored, managed and integrated within an organization and its database systems. It provides a formal approach to creating and managing the flow of data and how it is processed across an organization’s IT systems and applications - techopedia
+* [Data Exhaust](https://whatis.techtarget.com/definition/data-exhaust) - Data exhaust is the data generated as a byproduct of people’s online actions and choices - techtarget
+
+
 
 * [Data blending](https://www.datawatch.com/what-is-data-blending/) - Data blending is the process of combining data from multiple sources into a functioning dataset. This process is gaining attention among analysts and analytic companies due to the fact that it is a quick and straightforward method used to extract value from multiple data sources.
 
@@ -41,3 +41,9 @@
 * [Data steward](https://www.dataminingapps.com/2018/05/what-is-the-difference-between-a-data-owner-and-a-data-steward/) - Data stewards are the DQ experts in charge of ensuring the quality of both the actual business data and the corresponding metadata.  They assess DQ by performing extensive and regular data quality checks.  
 
 * [Data Swamp](https://intersog.com/blog/what-is-the-difference-between-data-lakes-data-marts-data-swamps-and-data-cubes/) is the term that describes the failure to document the stored data accurately, resulting in the inability to analyze and exploit the data efficiently; the original data may remain, but the data swamp cannot retrieve it without the metadata that gives it context.
+
+* [Citizen Data Scientist](https://www.simplilearn.com/citizen-data-scientists-article) - A person who creates or generates models that leverage predictive or prescriptive analytics, but whose primary job function is outside of the field of statistics and analytics. simplilearn
+
+* EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight) [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
+
+* [Information overload](https://en.wikipedia.org/wiki/Information_overload) (also known as infobesity, infoxication, information anxiety, and information explosion) is the difficulty in understanding an issue and effectively making decisions when one has too much information about that issue. In recent years, the term "information overload" has evolved into phrases such as "information glut", "data smog", and "data glut".
