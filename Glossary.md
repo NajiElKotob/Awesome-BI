@@ -47,3 +47,5 @@
 * EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight) [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
 
 * [Information overload](https://en.wikipedia.org/wiki/Information_overload) (also known as infobesity, infoxication, information anxiety, and information explosion) is the difficulty in understanding an issue and effectively making decisions when one has too much information about that issue. In recent years, the term "information overload" has evolved into phrases such as "information glut", "data smog", and "data glut".
+
+* [Shadow It](https://www.gartner.com/en/information-technology/glossary/shadow) refers to IT devices, software and services outside the ownership or control of IT organizations.
