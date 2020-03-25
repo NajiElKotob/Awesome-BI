@@ -42,6 +42,10 @@
 
 * [Data Swamp](https://intersog.com/blog/what-is-the-difference-between-data-lakes-data-marts-data-swamps-and-data-cubes/) is the term that describes the failure to document the stored data accurately, resulting in the inability to analyze and exploit the data efficiently; the original data may remain, but the data swamp cannot retrieve it without the metadata that gives it context.
 
+* [Data validation](https://www.mytutor.co.uk/answers/3636/GCSE/Computing/What-is-the-difference-between-data-verification-and-data-validation/) has nothing to do with what the user wants to input. Validation is about checking the input data to ensure it conforms with the data requirements of the system to avoid data errors. An example of this is a range check to avoid an input number that is greater/smaller than the specified range.
+
+* [Data verification](https://www.mytutor.co.uk/answers/3636/GCSE/Computing/What-is-the-difference-between-data-verification-and-data-validation/) is a way of ensuring the user types in what he or she intends, in other words, to make sure the user does not make a mistake when inputting data. An example of this includes double entry of data (such as when creating a password or email) to prevent incorrect data input.
+
 * [Citizen Data Scientist](https://www.simplilearn.com/citizen-data-scientists-article) - A person who creates or generates models that leverage predictive or prescriptive analytics, but whose primary job function is outside of the field of statistics and analytics. simplilearn
 
 * EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight) [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
