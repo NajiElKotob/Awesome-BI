@@ -48,4 +48,6 @@
 
 * [Information overload](https://en.wikipedia.org/wiki/Information_overload) (also known as infobesity, infoxication, information anxiety, and information explosion) is the difficulty in understanding an issue and effectively making decisions when one has too much information about that issue. In recent years, the term "information overload" has evolved into phrases such as "information glut", "data smog", and "data glut".
 
+* [Raw Data](https://www.displayr.com/what-is-raw-data/) Raw data typically refers to tables of data where each row contains an observation and each column represents a variable that describes some property of each observation. Data in this format is sometimes referred to as tidy data, flat data, primary data, atomic data, and unit record data. Sometimes raw data refers to data that has not yet been processed.
+
 * [Shadow It](https://www.gartner.com/en/information-technology/glossary/shadow) refers to IT devices, software and services outside the ownership or control of IT organizations.
