@@ -50,6 +50,8 @@
 
 * EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight) [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
 
+* [Granularity](https://www.datasciencecentral.com/profiles/blogs/modelling-a-data-warehouse) refers to “the level of detail or summarisation of the units of data in the data warehouse”. The low level of granularity contains high level of detail and the high level of granularity contains low level of detail.
+
 * [Information overload](https://en.wikipedia.org/wiki/Information_overload) (also known as infobesity, infoxication, information anxiety, and information explosion) is the difficulty in understanding an issue and effectively making decisions when one has too much information about that issue. In recent years, the term "information overload" has evolved into phrases such as "information glut", "data smog", and "data glut".
 
 * [Raw Data](https://www.displayr.com/what-is-raw-data/) Raw data typically refers to tables of data where each row contains an observation and each column represents a variable that describes some property of each observation. Data in this format is sometimes referred to as tidy data, flat data, primary data, atomic data, and unit record data. Sometimes raw data refers to data that has not yet been processed.
