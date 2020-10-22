@@ -32,7 +32,7 @@
 
 * [Data Exhaust](https://whatis.techtarget.com/definition/data-exhaust) - Data exhaust is the data generated as a byproduct of people’s online actions and choices - techtarget
 
-
+* A [data estate](https://www.forbes.com/sites/forbestechcouncil/2019/04/05/why-the-modern-day-corporation-should-consider-a-data-estate/) is simply the infrastructure to help companies systematically manage all of their corporate data. A data estate can be developed on-premises, in the cloud or a combination of both (hybrid).
 
 * [Data blending](https://www.datawatch.com/what-is-data-blending/) - Data blending is the process of combining data from multiple sources into a functioning dataset. This process is gaining attention among analysts and analytic companies due to the fact that it is a quick and straightforward method used to extract value from multiple data sources.
 
