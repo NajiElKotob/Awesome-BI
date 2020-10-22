@@ -46,6 +46,8 @@
 
 * [Data verification](https://www.mytutor.co.uk/answers/3636/GCSE/Computing/What-is-the-difference-between-data-verification-and-data-validation/) is a way of ensuring the user types in what he or she intends, in other words, to make sure the user does not make a mistake when inputting data. An example of this includes double entry of data (such as when creating a password or email) to prevent incorrect data input.
 
+* Gartner defines [dark data](https://www.gartner.com/en/information-technology/glossary/dark-data) as the information assets organizations collect, process and store during regular business activities, but generally fail to use for other purposes (for example, analytics, business relationships and direct monetizing). 
+
 * [Citizen Data Scientist](https://www.simplilearn.com/citizen-data-scientists-article) - A person who creates or generates models that leverage predictive or prescriptive analytics, but whose primary job function is outside of the field of statistics and analytics. simplilearn
 
 * EIM   - Enterprise Information Management (Enterprise information management is an integrative discipline for structuring, describing and governing information assets across organizational and technological boundaries to improve efficiency, promote transparency and enable business insight) [Gartner IT Glossary](https://www.gartner.com/it-glossary/enterprise-information-management-eim)
