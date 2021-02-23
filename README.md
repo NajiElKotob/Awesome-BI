@@ -114,6 +114,12 @@ Simply! The purpose of Business Intelligence is to support better decision makin
 * Non-additive
 
 
+##### Types of Fact Tables 
+* Transaction Fact Table
+* Snapshot Fact Table
+* Accumulated Fact Sheet
+* Fact less Facts
+
 
 #### Dimensions
 ##### Conformed Dimensions
