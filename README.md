@@ -100,8 +100,19 @@ Simply! The purpose of Business Intelligence is to support better decision makin
 * [Kimball Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques)
 * [Data Warehouse and Business Intelligence Toolkit Books](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books)
 
+### Architectures
+* [Are you building a BI house of cards? (July 2019)](https://ssbipolar.com/2019/07/02/are-you-building-a-bi-house-of-cards/amp/) - Matthew Roche
+
 ### Star Schema
 * [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
+
+
+#### Facts
+##### Types of Facts
+* Additive
+* Semi-additive
+* Non-additive
+
 
 
 #### Dimensions
@@ -116,10 +127,11 @@ Simply! The purpose of Business Intelligence is to support better decision makin
 ##### Stacked dimensions
 ##### Static Dimensions
 
-### Architectures
-* [Are you building a BI house of cards? (July 2019)](https://ssbipolar.com/2019/07/02/are-you-building-a-bi-house-of-cards/amp/) - Matthew Roche
+
+
 
 -----
+
 ## Enterprise Information Management (EIM)
 Enterprise Information Management (EIM) can best be defined as a set of technologies, processes, disciplines and practices used to manage an organization’s data and content as an enterprise asset. Managing information in an enterprise typically involves integrating data from across the enterprise and beyond, cleansing the data, matching the data to remove any duplicates, standardizing the data, enriching the data, making the data conform to legal and compliance requirements, and then storing the data in a centralized location with all the necessary security settings.
 * [Enterprise Information Management (EIM): Bringing Together SSIS, DQS, and MDS (Video)](https://channel9.msdn.com/Events/TechEd/Europe/2012/DBI310) - Matthew Roche (Channel9)
