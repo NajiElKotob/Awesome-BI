@@ -102,7 +102,7 @@ Simply! The purpose of Business Intelligence is to support better decision makin
 
 ### Architectures
 * [Are you building a BI house of cards? (July 2019)](https://ssbipolar.com/2019/07/02/are-you-building-a-bi-house-of-cards/amp/) - Matthew Roche
-
+* [Data Warehouse Guide](https://panoply.io/data-warehouse-guide/)
 ### Star Schema
 * [Star Schema](https://docs.infor.com/help_lawson_cloudsuite_10.1/index.jsp?topic=%2Fcom.lawson.help.reporting%2Fcom.lawson.help.bpwag-w_10.4.0%2FL55461185818015.html) - In the data warehouse database, data is arranged into hierarchal groups called dimensions and into facts and aggregate facts. The combination of facts and dimensions is called a star schema.
 
