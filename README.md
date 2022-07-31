@@ -65,7 +65,7 @@ The purpose of Business Intelligence is to support better decision making.
 
 -----
 ## Essential Concepts
-
+* [What is business intelligence? Transforming data into business insights](https://www.cio.com/article/272364/business-intelligence-definition-and-solutions.html) - cio.com
 
 ### BI Terms and Concepts
 * [Glossary](https://github.com/NajiElKotob/Awesome-BI/blob/master/Glossary.md)
