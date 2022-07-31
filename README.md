@@ -51,6 +51,10 @@ The purpose of Business Intelligence is to support better decision making.
 * [SQL Server BI](https://sqlserverbi.blog/) - Paul Turley 
 * [Microsoft SQL Server Versions List](https://sqlserverbuilds.blogspot.com/) - This unofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server.
 
+## Reports
+* [Data-driven: Big decisions in the intelligence age (PwC)](https://images.forbes.com/forbesinsights/StudyPDFs/PwC-Big_Decisions-REPORT.pdf) - forbes.com
+
+
 -----
 ## Groups and Communities
 * [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
