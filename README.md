@@ -1,9 +1,9 @@
 # Awesome BI
 Awesome Microsoft Business Intelligence Resources
 
-```sh
-Simply! The purpose of Business Intelligence is to support better decision making.
-```
+`
+The purpose of Business Intelligence is to support better decision making.
+`
 
 ## Table of contents
 * [Official Websites](#official-websites)
@@ -84,6 +84,8 @@ Simply! The purpose of Business Intelligence is to support better decision makin
 
 ### SSBI
 * [Self-service BI best practices: 5 dos and don'ts](https://searchcio.techtarget.com/video/Self-service-BI-best-practices-5-dos-and-donts) - Mekhala Roy (August 2017)
+* [Self-Service BI (Qlik)](https://www.qlik.com/us/business-intelligence/self-service-bi) - qlik.com
+
 -----
 ## Big Data
 * [Awesome Big Data](https://github.com/NajiElKotob/Awesome-BigData)
