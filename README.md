@@ -77,6 +77,9 @@ The purpose of Business Intelligence is to support better decision making.
 ### ERD
 * [What is an Entity Relationship Diagram (ERD)?](https://www.lucidchart.com/pages/er-diagrams) - lucidchart.com
 
+#### ERD Notation
+* [Crow’s Foot Notation](https://vertabelo.com/blog/crow-s-foot-notation/) - vertabelo.com
+
 ### Data Storage
 * [Data Storage Structures For Big Data](https://intersog.com/blog/what-is-the-difference-between-data-lakes-data-marts-data-swamps-and-data-cubes/)
 
