@@ -294,4 +294,3 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
 
 <br/>[:top:](#table-of-contents)
 
-> Suggest more Power BI Resources 
