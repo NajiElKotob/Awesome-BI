@@ -84,6 +84,8 @@ The purpose of Business Intelligence is to support better decision making.
 
 ### ERD Tools
 * [Lucidchart](https://lucid.app/) - lucid.app
+* [SqlDBM](https://sqldbm.com/) - sqldbm.com
+
 -----
 
 ### Data Storage
