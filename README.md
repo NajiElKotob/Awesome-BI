@@ -177,6 +177,7 @@ Enterprise Information Management (EIM) can best be defined as a set of technolo
   - [Deploy Packages with SSIS](https://learn.microsoft.com/en-us/sql/integration-services/deploy-packages-with-ssis?view=sql-server-ver16)
 * Videos
    * [SSIS Channel9](https://channel9.msdn.com/Search?term=%22integration%20services%22&lang-en=true)
+   * [SQL Server Integration Services (SSIS) Tutorial](https://www.youtube.com/playlist?list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs) - WiseOwlTutorials
 
 ### MDM
 * Installation
