@@ -56,6 +56,7 @@ The purpose of Business Intelligence is to support better decision making.
 
 
 -----
+* [Level Industry Financial & Software Benchmarks](https://levelcfo.com/benchmarks/) - Empirical gross margin, EBITDA, working-capital, and ERP reconciliation benchmark reports across trades, ecommerce, hospitality, healthcare, and staffing ([GitHub CSV/JSON](https://github.com/levelcfo/smb-financial-benchmarks)).
 ## Groups and Communities
 * [LinkedIn Groups](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/README.md#groups)
 
